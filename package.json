@@ -1,0 +1,26 @@
+{
+  "name": "node-crud",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eyeoftigers/node-crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eyeoftigers/node-crud/issues"
+  },
+  "homepage": "https://github.com/eyeoftigers/node-crud#readme",
+  "dependencies": {
+    "express": "^4.14.0",
+    "nodeman": "^1.1.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.10.2"
+  }
+}
